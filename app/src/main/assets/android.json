@@ -1,0 +1,98 @@
+{
+    "android": [{
+            "name": "Android 1.0 Alpha",
+            "desc": "Versi Android 1.0 Alpha ini pertama kali dirilis pada September 2008 dan tidak ditujukan untuk kebutuhan komersial. Walaupun belum dirilis secara komersial, versi Android ini telah dilengkapi fitur dukungan akses web browser, streaming youtube, pemutar media, google map, dan sinkronisasi dengan aplikasi google lainnya.",
+            "image": "@drawable/andro_1"
+        },
+        {
+            "name": "Android 1.1 Beta",
+            "desc": "Selang beberapa bulan versi Android 1.1 Beta diluncurkan pada tanggal 9 Februari 2009. Sama seperti pendahulunya yakni Alpha versi Android belum dirilis secara komersial, hanya diperuntukan untuk satu perangkat. Pembaruan ini dilakukan untuk memperbaiki bugs dan meningkatkan beberapa fitur seperti rincian lokasi pada aplikasi maps serta fitur menyembunyikan dan menampilkan tombol panggilan.",
+            "image": "@drawable/andro_2"
+        },
+        {
+            "name": "Android 1.5 Cupcake",
+            "desc": "Barulah pada tanggal 30 April 2009 android versi android 1.5 Cupcake yang diperkenalkan secara komersial. Versi Cupcake merupakan generasi pertama yang dirilis secara komersial dan berawal dari sinilah Android mulai menggunakan nama makanan manis kepada setiap versi Android yang dirilisnya. Beberapa fitur yang dimiliki Android Cupcake seperti dukungan akan rotasi layar otomatis, widget, dan keyboard virtual.",
+            "image": "@drawable/andro_3"
+        },
+        {
+            "name": "Android 1.6 Donut",
+            "desc": "Versi pembaruan Android berikutnya adalah versi 1.6 Donut yang dirilis pada tanggal 15 September 2009. Pada versi Donut ini Android menambahkan beberapa fitur seperti persentase daya baterai, dukungan gestur, fasilitas pencarian di android market atau yang sekarang kita kenal dengan play store.",
+            "image": "@drawable/andro_4"
+        },
+        {
+            "name": "Android 2.0 Eclair",
+            "desc": "Selang sebulan Android melakukan pembaruan kembali untuk memperbaiki bug dan memperkaya fiturnya tepatnya pada tanggal 26 Oktober 2009. Pembaruan Android versi 2.0 diberi nama Eclair dan pada versi ini terdapat beberapa fitur seperti multi touch, live wallpaper, perubahan tampilan antarmuka dan dukungan browser untuk HTML5.",
+            "image": "@drawable/andro_5"
+        },
+        {
+            "name": "Android 2.2 Froyo",
+            "desc": "Pada tanggal 20 Mei 2010 Android kembali meluncurkan versi terbarunya yaitu versi 2.2 Froyo. Pada versi Froyo ini Android sudah mulai dikenal luas oleh vendor atau pabrikan ponsel. Pembaruan Android 2.2 membawa beberapa fitur unggulan seperti memperbesar gambar pada galeri dengan gestur, peningkatan fitur USB tethering dan hotspot WIFI serta dukungan animasi GIF pada web browser.",
+            "image": "@drawable/andro_6"
+        },
+        {
+            "name": "Android 2.3 Gingerbread",
+            "desc": "Pada versi ini tidak bisa diragukan lagi Android telah menjadi sistem operasi mobile yang populer. Kerjasama dengan pabrikan Samsung dalam membuat produk Samsung Galaxy Series semakin menambah kepopuleran Android. Versi 2.3 Gingerbread dirilis pada tanggal 6 Desember 2010 dengan menambah beberapa fitur seperti dukungan NFC, fitur copy atau paste dengan memilih kata melalui layar yang ditekan serta dukungan beberapa sensor lainnya.",
+            "image": "@drawable/andro_7"
+        },
+        {
+            "name": "Android 3.0 Honeycomb",
+            "desc": "Versi Android berikutnya adalah versi 3.0 Honeycomb yang diperkenalkan pada tanggal 22 Februari 2011. Versi Android ini dikhususkan untuk perangkat tablet PC, dengan membawa beberapa fitur yang ditujukan untuk komputasi bisnis pada tablet. Fitur yang dimiliki Android Honeycomb seperti dukungan prosesor multi core, dukungan obrolan video dengan Google Talk dan percepatan saat berpindah aplikasi yang sedang berjalan dengan fitur multitasking recent apps.",
+            "image": "@drawable/andro_8"
+        },
+        {
+            "name": "Android 4.0 Ice Cream Sandwich",
+            "desc": "Tepat pada tanggal; 19 Oktober 2011 Android kembali meluncurkan versi terbarunya 4.0 Ice Cream Sandwich. Versi ini membawa fitur yang dimiliki oleh Honeycomb untuk bisa berjalan pada smartphone yang sebelumnya hanya ditujukan untuk tablet PC. Selain fitur yang sebelumnya ada di Honeycomb, versi 4.0 juga menambahkan beberapa fitur lain seperti perbaikan antarmuka dan kostumisasi widget.",
+            "image": "@drawable/andro_9"
+        },
+        {
+            "name": "Android 4.1 Jelly Bean",
+            "desc": "Android 4.1 Jelly Bean dirilis pada tanggal 27 Juni 2012. Pengembangan versi Jelly Bean lebih berfokus terhadap peningkatan performa tampilan antarmuka. Fitur terbaru yang disematkan pada versi Jelly bean adalah keyboard yang bisa dikostumisasi oleh pengguna dan dukungan gestur pada keyboard, UI yang lebih smooth, dukungan tampilan nirkabel, widget yang bisa diatur dan disesuaikan ukurannya.",
+            "image": "@drawable/andro_10"
+        },
+        {
+            "name": "Android 4.4 KitKat",
+            "desc": "Nama KitKat dipilih Android untuk digunakan pada versi terbarunya yaitu versi 4.4 yang diresmikan pada tanggal 31 Oktober 2013. Pada versi ini Android meningkatkan optimalisasi dengan memberikan fitur yang lebih baik. Beberapa fitur yang dibawa android KitKat seperti WebViews yang berbasiskan Chromium, pengoptimalan kinerja terhadap perangkat dengan spesifikasi rendah, dukungan sensor batching dan step detector.",
+            "image": "@drawable/andro_11"
+        },
+        {
+            "name": "Android 5.0 Lollipop",
+            "desc": "Versi Android selanjutnya adalah versi 5.0 Lollipop yang dirilis pada tanggal 25 Juni 2014. Pada versi ini Android tidak hanya menjadi sistem operasi pada perangkat smartphone, namun juga telah berjalan pada perangkat mobile lainnya seperti Android TV dan juga Google Fit. Beberapa fitur yang ditambahkan pada versi ini adalah user interface yang mengikuti desain Google yaitu material design dan fitur factory reset protection untuk menjaga smartphone agar tidak di reset apabila hilang.",
+            "image": "@drawable/andro_12"
+        },
+        {
+            "name": "Android 6.0 Marshmallow",
+            "desc": "Android 6.0 Marshmallow di perkenalkan pada tanggal 5 Mei 2015. Fitur yang dibawa oleh versi Android Marshmallow adalah dukungan sensor sidik jari untuk mengakses smartphone, fasilitas menjalankan beberapa aplikasi pada tata letak layar dengan dukungan multi window, dukungan platform virtual reality, dan kemampuan dalam mengurangi pemakaian bandwidth pada mode data saver.",
+            "image": "@drawable/andro_13"
+        },
+        {
+            "name": "Android 7.0 Nougat",
+            "desc": "Diperkenalkan pada tanggal 19 Oktober 2016 Android 7.0 Nougat berfokus pada peningkatan performa user interface sehingga lebih intuitif dan penggunaan aplikasi secara bersamaan lebih banyak pada fitur multi window. Selain peningkatan fitur tadi, Android Nougat juga menambahkan beberapa fitur lain seperti dukungan cahaya malam atau mode malam, keyboard default yang dapat mengirim animasi GIF langsung dan dukungan panggilan multi-endpoint.",
+            "image": "@drawable/andro_14"
+        },
+        {
+            "name": "Android 8.0 Oreo",
+            "desc": "Nama Oreo dipilih Android untuk digunakan pada versi Android 8.0 yang diluncurkan pada bulan Agustus 2017. User interface pada Android Oreo lebih simpel agar memudahkan dalam mengakses aplikasi. Pembaruan pada versi Oreo membawa beberapa fitur seperti fitur Autofill yang memberikan kemudahan dalam mengisi formulir misal, dukungan gambar dalam gambar dan pengoptimalan booting agar lebih cepat.",
+            "image": "@drawable/andro_15"
+        },
+        {
+            "name": "Android 9.0 Pie",
+            "desc": "Android 9.0 Pie merupakan versi Android terbaru yang dirilis pada bulan Agustus 2018. Fitur unggulan yang dimiliki oleh versi 9.0 Pie ini adalah kemampuan AI atau kecerdasan buatan. Dengan fitur AI smartphone kamu akan menganalisa dan mempelajari pola pemakaian kamu menggunakan smartphone secara otomatis. Selain itu fitur lainnya yang diusung seperti Adaptive Brightness yang akan menyesuaikan kecerahan layar secara otomatis dan dukungan pada ponsel bezel less.",
+            "image": "@drawable/andro_16"
+        },
+        {
+            "name": "Android 10 Android Q",
+            "desc": "Nama Android berikutnya yang paling terbaru tidak diberi nama seperti pendahulunya yang berkaitan dengan makanan manis. Versi Android terbaru diberi nama Android 10 untuk memperingati bahwa Android telah mencapai 1 dekade secara komersial. Versi Android 10 lebih berfokus pada penyempurnaan mode malam atau gelap serta peningkatan fitur sound amplifier untuk mengatur kualitas audio.",
+            "image": "@drawable/andro_17"
+        },
+        {
+            "name": "Android 11 Android R",
+            "desc": "Urutan Android ke-18 adalah Android 11. Versi Android tanpa nama makanan manis ini dirilis resmi pada 8 September 2020. OS Android 11 bisa mengelompokan aplikasi dalam status notifikasi. Misal semua aplikasi pesan digabung dalam notifikasi Conversation. Android 11 punya fitur Balon yang bisa membuat Anda melanjutkan percakapan setelah mengakses aplikasi lain. Akses chat kapan saja dan di mana saja lebih mudah. Android 11 juga punya fitur perekam layar (Screen Recording) bawaan. Ada juga fitur izin satu kali ke apliaksi yang meminta akses.",
+            "image": "@drawable/andro_18"
+        },
+        {
+            "name": "Android 12 Snow Cone",
+            "desc": "Android 12 akhirnya kembali menggunakan nama makanan manis, yaitu Snow Cone. Android versi 12 ini dirilis perdana pada 4 Oktober 2021. Urutan Android versi terbaru ini memiliki update besar pada Desain Material yang kemudian disebut sebagai “Material You.” Sistem operasi bisa secara otomatis menghasilkan tema warna untuk menu sistem dan aplikasi yang didukung menggunakan warna wallpaper pengguna. Android 12 juga dilengkapi fitur untuk ambil screenshot tampilan web secara utuh atau bergulir. Pengguna juga bisa mencegah aplikasi untuk menggunakan aplikasi dan mikrofon melalui pengaturan cepat.",
+            "image": "@drawable/andro_19"
+        }
+    ]
+}
